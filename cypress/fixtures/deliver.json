@@ -1,0 +1,79 @@
+{
+    "signup":{
+        "nome": "Julius Dantas",
+            "cpf": "00011122289",
+            "email": "teste@teste.com.br",
+            "whatsapp": "71999999999",
+            "endereco": {
+                "cep": "42706100",
+                "rua": "Rua Milena Ramone Alencar Ramos",
+                "numero": "123",
+                "complemento": "casa",
+                "cidade_uf": "Lauro de Freitas/BA"
+            },
+            "metodo_entrega": {
+                "metodo1": "Moto",
+                "metodo2": "Bike Elétrica",
+                "metodo3": "Van/Carro"
+            },
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "Double Check",
+            "cpf": "000111222AA",
+            "email": "teste@teste.com.br",
+            "whatsapp": "71999999999",
+            "endereco": {
+                "cep": "42706100",
+                "rua": "Rua Milena Ramone Alencar Ramos",
+                "numero": "123",
+                "complemento": "casa",
+                "cidade_uf": "Lauro de Freitas/BA"
+            },
+            "metodo_entrega": {
+                "metodo1": "Moto",
+                "metodo2": "Bike Elétrica",
+                "metodo3": "Van/Carro"
+            },
+            "cnh": "cnh-digital.jpg"
+    },
+    "nome_inv": {
+            
+            "cpf": "00011122289",
+            "email": "teste@teste.com.br",
+            "whatsapp": "71999999999",
+            "endereco": {
+                "cep": "42706100",
+                "rua": "Rua Milena Ramone Alencar Ramos",
+                "numero": "123",
+                "complemento": "casa",
+                "cidade_uf": "Lauro de Freitas/BA"
+            },
+            "metodo_entrega": {
+                "metodo1": "Moto",
+                "metodo2": "Bike Elétrica",
+                "metodo3": "Van/Carro"
+            },
+            "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "nome": "Double Check",
+            "cpf": "00011122289",
+            "email": "teste.com.br",
+            "whatsapp": "71999999999",
+            "endereco": {
+                "cep": "42706100",
+                "rua": "Rua Milena Ramone Alencar Ramos",
+                "numero": "123",
+                "complemento": "casa",
+                "cidade_uf": "Lauro de Freitas/BA"
+            },
+            "metodo_entrega": {
+                "metodo1": "Moto",
+                "metodo2": "Bike Elétrica",
+                "metodo3": "Van/Carro"
+            },
+            "cnh": "cnh-digital.jpg"
+    }
+}
